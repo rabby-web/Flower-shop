@@ -91,3 +91,38 @@
     text-align: center;
     padding: 10px;
 }
+/* ------------------------------
+        footer start
+-------------------------------- */
+.foot-title{
+    font-family: Lato;
+    font-size: 48px;
+    color: #FFFFFF;
+    font-weight: 800;
+}
+.foot-primary-color{
+    color: #E55473;
+}
+.foot-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 20px;
+}
+.foot-footer{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.foot{
+    background: #111010;
+    padding: 128px 400px;
+    text-align: center;
+}

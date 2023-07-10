@@ -92,10 +92,33 @@
     padding: 10px;
 }
 /* ------------------------------
+        hot deal start
+-------------------------------- */
+.deal-title{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+text-align: center;
+}
+.hot-deal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E554730D;
+}
+.deal-text{
+    padding: 50px;
+}
+.deal-img{
+    padding: 50px;
+}
+/* ------------------------------
         instagram start
 -------------------------------- */
 .instagram{
-    margin: 10px;
+    margin: 40px 10px;
 }
 .instagram-title{
     color: #272727;

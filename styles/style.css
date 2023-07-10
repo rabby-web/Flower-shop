@@ -92,6 +92,32 @@
     padding: 10px;
 }
 /* ------------------------------
+        icon start
+-------------------------------- */
+.icon-section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 60px 240px;
+}
+.icon-text{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 500;
+}
+.icon-box{
+    padding: 50px;
+}
+.icon-box img{
+    width: 88px;
+    height: 88px;
+}
+/* ------------------------------
         hot deal start
 -------------------------------- */
 .deal-title{

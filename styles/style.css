@@ -78,7 +78,7 @@
 }
 .featured-card{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 20px;
 }
 .featured-2{
@@ -86,4 +86,8 @@
 }
 .featured-3{
     background-color: #477D1126;
+}
+.featured-bottom{
+    text-align: center;
+    padding: 10px;
 }
